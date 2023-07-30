@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React router is already set.
+Loaded with unstyled UI library React-aria and tailwindcss for styling the components
+ * open [https://react-spectrum.adobe.com/react-aria/index.html] to view official docs
+ * open [https://tailwindcss.com/] to view official docs
+
+To start the project do
+### npm install
+Then create firebase-config.js on firebase.js level by copy/paste firebaseConfig that comes from Firebase
+
 
 ## Available Scripts
 
